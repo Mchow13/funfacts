@@ -11,13 +11,14 @@ import Foundation
 struct FactBook {
     
     let factsArray = [
-        "Mao Tsetung's wife ran the country!",
+        "A Russian colonel personally saved the world from nuclear disaster!",
         "Vodka does not give you hangovers!",
         "Cats have more brain cells than humans!",
         "Ronald Reagan loved model trains!",
-        "US and German soldiers fought together against the SS!",
+        "Bruce Lee was also a talented musician and dancer!",
         "Beethoven was deaf and relied on vibrations to compose music!",
-        "It is possible to go back in time."
+        "It is possible to go back in time.",
+        "Hemp has been used for centuries for practicial purposes!"
 ]
     
     func randomFact() -> String {
